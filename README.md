@@ -1,5 +1,5 @@
 <h1 align="center">Small Shell.rs</h1>
-<p align="center"><img src="https://i.imgur.com/xe9L9DY.png"/></p>
+<p align="center"><img width="500" src="https://user-images.githubusercontent.com/12754297/128579925-4309bb04-141d-451e-aeb0-4bfadd65f117.png"/></p>
 
 ---
 **Small Shell.rs** is a lightweight and simple Linux shell written in `rust`.
@@ -7,10 +7,10 @@ I wrote it as an exercise to learn `rust` and also know a little bit more about 
 
 ---
 ## Goals
-- :heavy_check_mark: Running binaries
-- :heavy_check_mark: `CD` command
-- :heavy_check_mark: Piping
-- :white_check_mark: Autocomplete
+- [X] Running binaries
+- [X] `cd` command
+- [X] Piping
+- [ ] Autocomplete
 ---
 ### Running
 ```
